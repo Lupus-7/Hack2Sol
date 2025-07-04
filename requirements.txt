@@ -1,0 +1,14 @@
+streamlit
+bokeh
+pandas
+streamlit-bokeh
+
+
+importlib (Standardbibliothek)
+types (Standardbibliothek)
+copy (Standardbibliothek)
+itertools (Standardbibliothek)
+datetime (Standardbibliothek)
+random (Standardbibliothek)
+time (Standardbibliothek)
+logging (Standardbibliothek)
